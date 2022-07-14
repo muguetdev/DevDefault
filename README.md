@@ -1,9 +1,17 @@
 <h1> Hi! My name is DevDefault. </h1>
 
 <div>
-  <a href="https://github.com/DevDefault">
-  <img height="180em"   align="center" src="https://github-readme-stats.vercel.app/api?username=DevDefault&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
-  <img height="180em"  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevDefault&layout=compact&langs_count=7&theme=react" />
+//  <a href="https://github.com/DevDefault">
+//  <img height="180em"   align="center" src="https://github-readme-stats.vercel.app/api?username=DevDefault&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
+//  <img height="180em"  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevDefault&layout=compact&langs_count=7&theme=react" />
+
+<div>
+<a href="https://github.com/DevDefault">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?DevDefault&layout=compact&langs_count=7&theme=dracula"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=seu-usuário-DevDefault&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
+
+
 
   <img align="center" width="148" height="180" src="https://media1.tenor.com/images/68e8337fb4eb7e40645d832c64762a8b/tenor.gif?itemid=19443613">
 </div>
